@@ -1,4 +1,4 @@
-# CMPUT455-ASG1
+# CMPUT455-ASG2
 
 ## Info for Team Submission Form:
 
